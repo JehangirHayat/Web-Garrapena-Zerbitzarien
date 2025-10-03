@@ -38,7 +38,7 @@ python -m virtualenv venv
 - **Windows**
 
 ```bash
-.env\Scriptsctivate
+.venv\Scripts/activate
 ```
 
 - **Linux / Mac**
@@ -377,16 +377,3 @@ python manage.py runserver
    - http://127.0.0.1:8000/admin/ → Admin
 
 ---
-
-## ✅ Resumen
-
-Ya tienes un proyecto **Django completo** con:
-
-- Modelos y migraciones
-- CRUD
-- Consultas avanzadas
-- Panel admin
-- Parámetros en URL
-- Templates con herencia
-- Formularios CBV
-- Archivos estáticos
