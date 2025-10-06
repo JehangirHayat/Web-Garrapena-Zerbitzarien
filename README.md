@@ -61,7 +61,7 @@ django-admin --version
 ### Crear proyecto
 
 ```bash
-django-admin startproject mysite
+django-admin startproject mysite .
 cd mysite
 ```
 
