@@ -126,7 +126,7 @@ python manage.py migrate
 
 ## Abrir Django Shell
 ````bash
-python manage.py migrate
+python manage.py shell
 ````
 
 ### CREATE
