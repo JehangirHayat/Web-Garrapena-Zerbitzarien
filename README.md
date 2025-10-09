@@ -124,6 +124,11 @@ python manage.py migrate
 
 ## 4️⃣ Operaciones CRUD
 
+## Abrir Django Shell
+````bash
+python manage.py migrate
+````
+
 ### CREATE
 
 ```python
