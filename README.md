@@ -35,14 +35,6 @@ python -m virtualenv venv
 
 ### Activar entorno virtual
 
-- **Windows**
-
-```bash
-.venv\Scripts/activate
-```
-
-- **Linux / Mac**
-
 ```bash
 source venv/bin/activate
 ```
